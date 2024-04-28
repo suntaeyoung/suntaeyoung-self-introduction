@@ -24,8 +24,8 @@ const projectData = [
     title: "First Portfolio Website",
     image: "/images/projectScreen/self-introduction.png",
     description: "첫번째 자기소개서 포트폴리오",
-    githubLink: "#",
-    demoLink: "#"
+    githubLink: "https://github.com/suntaeyoung/suntaeyoung_self-introduction",
+    demoLink: "https://suntaeyoung-self-introduction.vercel.app/"
   },
 ];
 
