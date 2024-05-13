@@ -11,4 +11,4 @@
 - **Contact**: 저와 연락할 수 있는 정보를 제공합니다. 전화번호와 이메일 주소를 통해 손쉽게 연락할 수 있습니다.
 
 ## 실행 주소
-다음 주소에서 실행할 수 있습니다: [자기소개서 실행 주소](https://suntaeyoung-self-introduction.vercel.app/)
+다음 주소에서 실행할 수 있습니다: [자기소개서 실행 주소](https://suntaeyoung-self-introduction.netlify.app/)
